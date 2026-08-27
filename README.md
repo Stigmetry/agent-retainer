@@ -1,4 +1,4 @@
-# arc-agent-retainer
+# Stigmetry Agent Retainer
 
 **Layer 5: Recurring USDC Subscription Payments for Arc**
 
@@ -47,8 +47,8 @@ On-chain retainer billing — agents offer subscription plans, clients subscribe
 
 ```bash
 # Clone
-git clone https://github.com/sethoshi18/arc-agent-retainer.git
-cd arc-agent-retainer
+git clone https://github.com/Stigmetry/agent-retainer.git
+cd agent-retainer
 
 # Install
 npm install
@@ -104,11 +104,11 @@ npm run mcp
 
 | Repo | Layer | Description |
 |------|-------|-------------|
-| [arc-agent-payments](https://github.com/sethoshi18/arc-agent-payments) | 1+2 | ERC-8004 identity + ERC-8183 job escrow |
-| [arc-agent-market](https://github.com/sethoshi18/arc-agent-market) | 3 | RFP board + bid matching |
-| [arc-agent-orchestrator](https://github.com/sethoshi18/arc-agent-orchestrator) | 4 | Multi-agent revenue splits |
-| **arc-agent-retainer** | **5** | **Recurring USDC subscriptions** |
-| [arc-agent-hub](https://github.com/sethoshi18/arc-agent-hub) | UI | Next.js marketplace frontend |
+| [Agent Payments](https://github.com/Stigmetry/agent-payments) | 1+2 | ERC-8004 identity + ERC-8183 job escrow |
+| [Agent Market](https://github.com/Stigmetry/agent-market) | 3 | RFP board + bid matching |
+| [Agent Orchestrator](https://github.com/Stigmetry/agent-orchestrator) | 4 | Multi-agent revenue splits |
+| **Agent Retainer** | **5** | **Recurring USDC subscriptions** |
+| [Agent Hub](https://github.com/Stigmetry/agent-hub-main) | UI | Next.js marketplace frontend |
 
 ---
 
